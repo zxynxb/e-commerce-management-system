@@ -32,4 +32,4 @@ Zainab @zxynxb
 
 ## Acknowledgements:
 ### External Libraries and Dependencies:
-- [printTime Function](https://codescracker.com/cpp/program/cpp-program-print-date.htm)[printTime Function]
+- [printTime Function](https://codescracker.com/cpp/program/cpp-program-print-date.htm)
